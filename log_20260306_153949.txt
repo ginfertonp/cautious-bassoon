@@ -1,0 +1,44 @@
+##LOG_FILE##:log_20260306_153949.txt
+======================================================================
+LOG DE EXECUÇÃO  : 2026-03-06 15:39:49
+======================================================================
+
+[1772822389.3865885735] ===================================================================================
+[1772822389.3873941898] 🗂️  ARQUIVO DE LOG: C:\Users\Guilherme\Desktop\autobot\logs\log_20260306_153949.txt
+[1772822389.3882021904] ===================================================================================
+[1772822389.8459944725] 🚀 Aplicação iniciada
+[1772822390.3727638721] 📂 Carregando configuração inicial...
+[1772822390.3738403320] 📂 Carregando config de: C:\Users\Guilherme\Desktop\autobot\data\b79606fb3afea5bd
+[1772822390.3760316372] 🔓 Arquivo descriptografado com sucesso
+[1772822390.3768355846] ✅ Config carregado com sucesso!
+[1772822390.3776655197] 📂 Carregando prioridades de: C:\Users\Guilherme\Desktop\autobot\data\c5d987870fbd2df3
+[1772822390.3785114288] 🔓 Arquivo descriptografado com sucesso
+[1772822390.3791213036] ✅ Prioridades carregadas com sucesso!
+[1772822390.3795924187] ✅ Configuração carregada com sucesso!
+[1772822390.3803560734] ✅ Configuração de prioridades carregada com sucesso!
+[1772822390.3810877800] ℹ️ Horário alvo não configurado
+[1772822390.3818681240] ✅ Indicador de horário atualizado na tela
+[1772822390.3852462769] ✅ Checkbox do modo teste atualizado: True
+[1772822391.3627319336] 🕐 [NTP] Desvio do relógio: -1.71s
+[1772822404.5681235790] ══════════════════════════════════════════════════
+[1772822404.5687894821] INICIANDO EXECUÇÃO DO ROBÔ
+[1772822404.5692744255] ══════════════════════════════════════════════════
+[1772822404.7282705307] 📂 Carregando config de: C:\Users\Guilherme\Desktop\autobot\data\b79606fb3afea5bd
+[1772822404.7290844917] 🔓 Arquivo descriptografado com sucesso
+[1772822404.7295913696] ✅ Config carregado com sucesso!
+[1772822404.7304730415] 📂 Carregando prioridades de: C:\Users\Guilherme\Desktop\autobot\data\c5d987870fbd2df3
+[1772822404.7312579155] 🔓 Arquivo descriptografado com sucesso
+[1772822404.7319328785] ✅ Prioridades carregadas com sucesso!
+[1772822404.7324109077] ============================================================
+[1772822404.7330391407] DATAS CONFIGURADAS:
+[1772822404.7337846756]   1. 2026-03-10
+[1772822404.7344052792]   2. 2026-03-14
+[1772822404.7350344658] ============================================================
+
+[1772822404.7356750965] ❌ Configuração inválida. Corrija os seguintes pontos:
+
+[1772822404.7363078594]   - Senha não configurada.
+[1772822404.7441987991] [GUI] Processo de envio do log iniciado.
+[1772822406.4164962769] Aviso: Robô finalizado com erros.
+
+Execução finalizada (sem dados de resumo).
