@@ -1,0 +1,31 @@
+##LOG_FILE##:log_20260307_194219.txt
+======================================================================
+LOG DE EXECUÇÃO  : 2026-03-07 19:42:19
+======================================================================
+
+[1772923339.4344644547] ===================================================================================
+[1772923339.4344644547] 🗂️  ARQUIVO DE LOG: C:\Users\Guilherme\AppData\Local\AutoBot\logs\log_20260307_194219.txt
+[1772923339.4354827404] ===================================================================================
+[1772923340.8053863049] 🚀 Aplicação iniciada
+[1772923341.6293344498] 📂 Carregando configuração inicial...
+[1772923341.6303424835] 📂 Carregando config de: C:\Users\Guilherme\AppData\Local\AutoBot\data\b79606fb3afea5bd
+[1772923341.6323149204] 🔓 Arquivo descriptografado com sucesso
+[1772923341.6333141327] ✅ Config carregado com sucesso!
+[1772923341.6333141327] 📂 Carregando prioridades de: C:\Users\Guilherme\AppData\Local\AutoBot\data\c5d987870fbd2df3
+[1772923341.6343226433] 🔓 Arquivo descriptografado com sucesso
+[1772923341.6343226433] ✅ Prioridades carregadas com sucesso!
+[1772923341.6343226433] ✅ Configuração carregada com sucesso!
+[1772923341.6353232861] ✅ Configuração de prioridades carregada com sucesso!
+[1772923341.6353232861] ℹ️ Horário alvo não configurado
+[1772923341.6353232861] ✅ Indicador de horário atualizado na tela
+[1772923341.7016940117] ✅ Checkbox do modo teste atualizado: True
+[1772923342.5268537998] 🕐 [NTP] Desvio do relógio: -1.00s
+[1772923348.5434830189] ══════════════════════════════════════════════════
+[1772923348.5434830189] INICIANDO EXECUÇÃO DO ROBÔ
+[1772923348.5434830189] ══════════════════════════════════════════════════
+[1772923348.7012457848] frozen + path
+[1772923348.7012457848] cmd programa --log-sender
+[1772923348.7132413387] [GUI] Processo de envio do log iniciado.
+[1772923350.2439477444] Aviso: Robô finalizado com erros.
+
+Execução finalizada (sem dados de resumo).
