@@ -181,3 +181,117 @@ LOG DE EXECUÇÃO  : 2026-03-07 01:07:36
 [1772856524.8347895145] Captcha lido: None
 [1772856524.8356416225] Programa não conseguiu resolver o captcha. Solicitando nova imagem.
 
+[1772856525.3275771141] Tentativa 2/1000
+[1772856525.3832035065] Resolvendo captcha login...
+[1772856525.5158829689] Captcha lido: None
+[1772856525.5164833069] Programa não conseguiu resolver o captcha. Solicitando nova imagem.
+
+[1772856525.9354977608] Tentativa 3/1000
+[1772856526.0171048641] Resolvendo captcha login...
+[1772856526.1543753147] Captcha lido: B57741
+[1772856527.5357737541] Login realizado com sucesso!
+
+[1772856527.5492162704] [Ciclo 3] Estado detectado: TELA_2_MENU
+[1772856527.5551803112] Clicando em 'Escala'...
+
+[1772856528.1456465721] [Ciclo 4] Estado detectado: TELA_3_ESCALA
+[1772856528.1463425159] ============================================================
+[1772856528.1468849182] 🔍 VERIFICANDO HORÁRIO ALVO
+[1772856528.1474506855] ============================================================
+[1772856528.1480619907] ⚠️ Campo 'horario_alvo_str' vazio no config
+[1772856528.1488311291] ============================================================
+
+[1772856528.1494913101] ============================================================
+[1772856528.1503369808] ➡️ Nenhum horário alvo configurado - executando IMEDIATAMENTE
+[1772856528.1511163712] ============================================================
+
+[1772856528.1516823769] 🖱️ Clicando em 'Nova Inscrição'...
+
+[1772856529.1056654453] [Ciclo 5] Estado detectado: TELA_4_FILTROS
+[1772856529.1062800884] Total de datas pendentes: 1
+
+[1772856529.1072828770] ⏳ Verificando datas disponíveis...
+[1772856529.1080527306]    Datas aguardadas: ['2026-03-13']
+
+[1772856529.1207184792]   [1] Datas disponíveis: ['2026-03-07', '2026-03-08', '2026-03-09', '2026-03-10', '2026-03-11', '2026-03-12', '2026-03-13', '2026-03-14', '2026-03-15']
+[1772856529.1214854717] ✓ Data pendente encontrada: 2026-03-13 (após 0.0s)
+[1772856529.1219954491] 📅  Data escolhida: 2026-03-13
+
+[1772856529.1224865913] ........ INSCRIÇÃO 1 ........
+[1772856529.1231436729] ======== TENTATIVA 1/1000 ========
+[1772856529.1237885952] Selecionando convênio...
+[1772856529.1245377064] Convênio: 29 BPM - RAS
+[1772856529.1398100853] Selecionando data do evento...
+[1772856529.1914110184] Desmarcando 'Aceitar reserva'
+[1772856529.2338619232] Pedindo novo captcha dentro da função específica.
+[1772856529.2795631886]   ⏳ Carregamento iniciado...
+[1772856530.0996508598]   ✓ Carregamento concluído
+[1772856530.1005272865] Capturando imagem base64...
+[1772856530.1074938774] Resolvendo captcha...
+[1772856530.2619524002] ❌ Erro ao resolver captcha
+[1772856530.2630834579] ........ INSCRIÇÃO 1 ........
+[1772856530.2639005184] ======== TENTATIVA 2/1000 ========
+[1772856530.2647786140] Selecionando convênio...
+[1772856530.2654595375] Convênio: 29 BPM - RAS
+[1772856530.2849566936] Selecionando data do evento...
+[1772856530.3092441559] Desmarcando 'Aceitar reserva'
+[1772856530.3337826729] Pedindo novo captcha dentro da função específica.
+[1772856530.3518123627]   ⏳ Carregamento iniciado...
+[1772856531.1793332100]   ✓ Carregamento concluído
+[1772856531.1802265644] Capturando imagem base64...
+[1772856531.1886150837] Resolvendo captcha...
+[1772856531.4843184948] Captcha lido: 56C3A2
+[1772856531.5015766621] Clicando em 'Filtrar'...
+[1772856531.8899335861] [DEBUG DIALOG] Handler ativo: True
+[1772856531.8908419609] [DEBUG DIALOG] Recebido no robô: 'Erro ao confirmar Imagem'
+[1772856531.8916580677] [DEBUG DIALOG] Captcha falhou. Flag _captcha_failed = True
+[1772856531.9494345188] [DEBUG DIALOG] Dismiss chamado no robô
+[1772856532.0357267857] ❌ Captcha incorreto. Tentando novamente...
+
+[1772856532.0364894867] ........ INSCRIÇÃO 1 ........
+[1772856532.0371847153] ======== TENTATIVA 3/1000 ========
+[1772856532.0380909443] Selecionando convênio...
+[1772856532.0388143063] Convênio: 29 BPM - RAS
+[1772856532.0537390709] Selecionando data do evento...
+[1772856532.0714263916] Desmarcando 'Aceitar reserva'
+[1772856532.0868229866] Pedindo novo captcha dentro da função específica.
+[1772856532.1189227104]   ⏳ Carregamento iniciado...
+[1772856532.9345622063]   ✓ Carregamento concluído
+[1772856532.9352955818] Capturando imagem base64...
+[1772856532.9419178963] Resolvendo captcha...
+[1772856533.0848309994] Captcha lido: 08B2CE
+[1772856533.0977127552] Clicando em 'Filtrar'...
+[1772856533.5029847622] ✓ Captcha resolvido com sucesso!
+[1772856533.5040168762] Verificando disponibilidade de eventos...
+[1772856533.5315525532] ✓ Eventos encontrados para 2026-03-13
+[1772856533.5320680141] Extraindo eventos da tabela...
+[1772856533.5373399258] ⚠️ Tabela não encontrada
+[1772856533.5381538868] ❌ Nenhum evento disponível (ou sem vagas) nesta data - _PROCESSAR_TABELA_VAZIA
+[1772856533.5388171673] X Data 2026-03-13 removida das pendentes
+
+[1772856533.5393743515] ❌ Não há mais datas pendentes. Finalizando...
+[1772856533.8833386898] ✓ Não há mais datas pendentes para inscrições.
+[1772856533.8842294216]    Datas pendentes: []
+[1772856533.8851602077]    Datas tentadas: ['2026-03-13']
+[1772856533.8859624863] ✅ Execução finalizada com sucesso
+[1772856534.5725157261] ✅ Todas as datas foram processadas!
+
+[1772856534.5734784603] ============================================================
+[1772856534.5743949413] RESUMO DA EXECUÇÃO
+[1772856534.5752196312] ============================================================
+[1772856534.5761907101] Tentativas realizadas: 1
+[1772856534.5771176815] Datas processadas (1): ['2026-03-13']
+[1772856534.5779783726] Datas não processadas (0): []
+
+[1772856534.5788543224] Inscrições confirmadas (0): []
+[1772856534.5797815323] Inscrições NÃO confirmadas (1): ['2026-03-13']
+[1772856534.5806031227] Datas já inscritas anteriormente (0): []
+
+[1772856534.5814867020] Tentativas de realizar login: 3
+[1772856534.5824530125] Tentativas de resolver captcha na tela 'filtros': 3
+[1772856534.5835001469] ============================================================
+[1772856534.5917134285] [GUI] Processo de envio do log iniciado.
+[1772856536.5791573524] Sucesso: A execução do robô foi finalizada.
+
+❌ Sem vagas (1):
+  • 13/03/2026
