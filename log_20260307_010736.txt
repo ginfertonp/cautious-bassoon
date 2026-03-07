@@ -1,0 +1,183 @@
+##LOG_FILE##:log_20260307_010736.txt
+======================================================================
+LOG DE EXECUÇÃO  : 2026-03-07 01:07:36
+======================================================================
+
+[1772856456.2402372360] ===================================================================================
+[1772856456.2410116196] 🗂️  ARQUIVO DE LOG: C:\Users\Guilherme\Desktop\autobot\logs\log_20260307_010736.txt
+[1772856456.2417871952] ===================================================================================
+[1772856456.2425832748] 🗑️  Log antigo removido: log_20260305_050224.txt
+[1772856456.7427914143] 🚀 Aplicação iniciada
+[1772856457.2213232517] 📂 Carregando configuração inicial...
+[1772856457.2230970860] 📂 Carregando config de: C:\Users\Guilherme\Desktop\autobot\data\b79606fb3afea5bd
+[1772856457.2312657833] 🔓 Arquivo descriptografado com sucesso
+[1772856457.2318561077] ✅ Config carregado com sucesso!
+[1772856457.2330045700] 📂 Carregando prioridades de: C:\Users\Guilherme\Desktop\autobot\data\c5d987870fbd2df3
+[1772856457.2342984676] 🔓 Arquivo descriptografado com sucesso
+[1772856457.2349050045] ✅ Prioridades carregadas com sucesso!
+[1772856457.2354452610] ✅ Configuração carregada com sucesso!
+[1772856457.2358994484] ✅ Configuração de prioridades carregada com sucesso!
+[1772856457.2364311218] ℹ️ Horário alvo não configurado
+[1772856457.2369983196] ✅ Indicador de horário atualizado na tela
+[1772856457.2913787365] ✅ Checkbox do modo teste atualizado: True
+[1772856458.2154695988] 🕐 [NTP] Desvio do relógio: -0.13s
+[1772856463.5670428276] 📂 Carregando favoritos de: C:\Users\Guilherme\Desktop\autobot\data\f42d0f9e4b0ec07d
+[1772856463.5923547745] 🔓 Favoritos descriptografados com sucesso
+[1772856463.5929863453] ✅ Favoritos carregados com sucesso!
+[1772856480.3289682865] 💾 Salvando prioridades em: C:\Users\Guilherme\Desktop\autobot\data\c5d987870fbd2df3
+[1772856480.3316631317] 🔒 Arquivo salvo com proteção criptográfica (vinculado à licença)
+[1772856481.4475870132] 💾 Salvando prioridades em: C:\Users\Guilherme\Desktop\autobot\data\c5d987870fbd2df3
+[1772856481.4490005970] 🔒 Arquivo salvo com proteção criptográfica (vinculado à licença)
+[1772856481.4588782787] 💾 Salvando prioridades em: C:\Users\Guilherme\Desktop\autobot\data\c5d987870fbd2df3
+[1772856481.4604783058] 🔒 Arquivo salvo com proteção criptográfica (vinculado à licença)
+[1772856482.3856313229] 💾 Salvando prioridades em: C:\Users\Guilherme\Desktop\autobot\data\c5d987870fbd2df3
+[1772856482.3873846531] 🔒 Arquivo salvo com proteção criptográfica (vinculado à licença)
+[1772856485.3778862953] ══════════════════════════════════════════════════
+[1772856485.3786070347] INICIANDO EXECUÇÃO DO ROBÔ
+[1772856485.3792512417] ══════════════════════════════════════════════════
+[1772856485.6136364937] 📂 Carregando config de: C:\Users\Guilherme\Desktop\autobot\data\b79606fb3afea5bd
+[1772856485.6145665646] 🔓 Arquivo descriptografado com sucesso
+[1772856485.6152477264] ✅ Config carregado com sucesso!
+[1772856485.6163053513] 📂 Carregando prioridades de: C:\Users\Guilherme\Desktop\autobot\data\c5d987870fbd2df3
+[1772856485.6173243523] 🔓 Arquivo descriptografado com sucesso
+[1772856485.6179556847] ✅ Prioridades carregadas com sucesso!
+[1772856485.6184284687] ============================================================
+[1772856485.6188530922] DATAS CONFIGURADAS:
+[1772856485.6192834377]   1. 2026-03-13
+[1772856485.6197028160] ============================================================
+
+[1772856485.6201152802] Modo do captcha: REMOTE
+[1772856485.6205360889] ------------------------------------------------------------
+[1772856485.6210312843] ============================================================
+[1772856485.6217017174] CICLO 1 - Processando data: 2026-03-13
+[1772856485.6223084927] Datas restantes: 1
+[1772856485.6228673458] ============================================================
+
+[1772856492.5427155495] ============================================================
+[1772856492.5434923172] MODO TESTE ATIVADO. CLIQUE REAL SUPRIMIDO. NENHUMA INSCRIÇÃO REAL SERÁ REALIZADA.
+[1772856492.5443551540] ============================================================
+[1772856492.5452077389] 🌐 Usando navegador configurado: C:\Users\Guilherme\AppData\Local\Chromium\Application\chrome.exe
+[1772856494.0091342926] Abrindo página: https://www.proeis.rj.gov.br/Default.aspx
+
+[1772856496.7102355957] [Ciclo 1] Estado detectado: TELA_0_LOGIN_TYPE
+[1772856497.2813675404] [Ciclo 2] Estado detectado: TELA_1_LOGIN
+[1772856497.2820277214] Tentativa 1/1000
+[1772856497.3346257210] Resolvendo captcha login...
+[1772856500.3767590523] Captcha lido: 3956ED
+[1772856501.9131977558] Mensagem de erro detectada: erro ao confirmar imagem
+[1772856501.9138717651] Captcha incorreto, tentando de novo.
+
+[1772856501.9148945808] Tentativa 2/1000
+[1772856501.9550914764] Resolvendo captcha login...
+[1772856502.1125140190] Captcha lido: 49242E
+[1772856504.2037537098] Login realizado com sucesso!
+
+[1772856504.2183609009] [Ciclo 3] Estado detectado: TELA_2_MENU
+[1772856504.2389745712] Clicando em 'Escala'...
+
+[1772856504.8589046001] [Ciclo 4] Estado detectado: TELA_3_ESCALA
+[1772856504.8595774174] ============================================================
+[1772856504.8603415489] 🔍 VERIFICANDO HORÁRIO ALVO
+[1772856504.8612813950] ============================================================
+[1772856504.8621151447] ⚠️ Campo 'horario_alvo_str' vazio no config
+[1772856504.8630776405] ============================================================
+
+[1772856504.8640072346] ============================================================
+[1772856504.8649356365] ➡️ Nenhum horário alvo configurado - executando IMEDIATAMENTE
+[1772856504.8657600880] ============================================================
+
+[1772856504.8664300442] 🖱️ Clicando em 'Nova Inscrição'...
+
+[1772856505.8081166744] [Ciclo 5] Estado detectado: TELA_4_FILTROS
+[1772856505.8092851639] Total de datas pendentes: 1
+
+[1772856505.8101701736] ⏳ Verificando datas disponíveis...
+[1772856505.8111124039]    Datas aguardadas: ['2026-03-13']
+
+[1772856505.8492186069]   [1] Datas disponíveis: ['2026-03-07', '2026-03-08', '2026-03-09', '2026-03-10', '2026-03-11', '2026-03-12', '2026-03-13', '2026-03-14', '2026-03-15']
+[1772856505.8498542309] ✓ Data pendente encontrada: 2026-03-13 (após 0.0s)
+[1772856505.8509013653] 📅  Data escolhida: 2026-03-13
+
+[1772856505.8539602757] ........ INSCRIÇÃO 1 ........
+[1772856505.8550348282] ======== TENTATIVA 1/1000 ========
+[1772856505.8557994366] Selecionando convênio...
+[1772856505.8564715385] Convênio: 29 BPM - RAS
+[1772856505.8679089546] Selecionando data do evento...
+[1772856505.9249489307] Desmarcando 'Aceitar reserva'
+[1772856506.0054726601] Pedindo novo captcha dentro da função específica.
+[1772856506.0260274410]   ⏳ Carregamento iniciado...
+[1772856506.8575210571]   ✓ Carregamento concluído
+[1772856506.8585631847] Capturando imagem base64...
+[1772856506.8671534061] Resolvendo captcha...
+[1772856507.0717432499] Captcha lido: 01AEF4
+[1772856507.0888712406] Clicando em 'Filtrar'...
+[1772856507.5352928638] ✓ Captcha resolvido com sucesso!
+[1772856507.5362939835] Verificando disponibilidade de eventos...
+[1772856507.5964865685] ✓ Eventos encontrados para 2026-03-13
+[1772856507.5971474648] Extraindo eventos da tabela...
+[1772856507.6160397530] ⚠️ Tabela não encontrada
+[1772856507.6169536114] ❌ Nenhum evento disponível (ou sem vagas) nesta data - _PROCESSAR_TABELA_VAZIA
+[1772856507.6176588535] X Data 2026-03-13 removida das pendentes
+
+[1772856507.6184315681] ❌ Não há mais datas pendentes. Finalizando...
+[1772856507.9752533436] ✓ Não há mais datas pendentes para inscrições.
+[1772856507.9761059284]    Datas pendentes: []
+[1772856507.9768304825]    Datas tentadas: ['2026-03-13']
+[1772856507.9775192738] ✅ Execução finalizada com sucesso
+[1772856508.3843407631] ✅ Todas as datas foram processadas!
+
+[1772856508.3851530552] ============================================================
+[1772856508.3858580589] RESUMO DA EXECUÇÃO
+[1772856508.3864204884] ============================================================
+[1772856508.3872303963] Tentativas realizadas: 1
+[1772856508.3883044720] Datas processadas (1): ['2026-03-13']
+[1772856508.3891062737] Datas não processadas (0): []
+
+[1772856508.3895573616] Inscrições confirmadas (0): []
+[1772856508.3900365829] Inscrições NÃO confirmadas (1): ['2026-03-13']
+[1772856508.3905856609] Datas já inscritas anteriormente (0): []
+
+[1772856508.3909542561] Tentativas de realizar login: 2
+[1772856508.3916137218] Tentativas de resolver captcha na tela 'filtros': 1
+[1772856508.3924236298] ============================================================
+[1772856508.4012503624] [GUI] Processo de envio do log iniciado.
+[1772856510.1495792866] Sucesso: A execução do robô foi finalizada.
+
+❌ Sem vagas (1):
+  • 13/03/2026
+[1772856518.7374382019] 💾 Salvando config em: C:\Users\Guilherme\Desktop\autobot\data\b79606fb3afea5bd
+[1772856518.7393164635] 🔒 Arquivo salvo com proteção criptográfica (vinculado à licença)
+[1772856519.7770180702] ══════════════════════════════════════════════════
+[1772856519.7777535915] INICIANDO EXECUÇÃO DO ROBÔ
+[1772856519.7785716057] ══════════════════════════════════════════════════
+[1772856519.8027191162] 📂 Carregando config de: C:\Users\Guilherme\Desktop\autobot\data\b79606fb3afea5bd
+[1772856519.8042521477] 🔓 Arquivo descriptografado com sucesso
+[1772856519.8050956726] ✅ Config carregado com sucesso!
+[1772856519.8061566353] 📂 Carregando prioridades de: C:\Users\Guilherme\Desktop\autobot\data\c5d987870fbd2df3
+[1772856519.8070476055] 🔓 Arquivo descriptografado com sucesso
+[1772856519.8076477051] ✅ Prioridades carregadas com sucesso!
+[1772856519.8081142902] ============================================================
+[1772856519.8085365295] DATAS CONFIGURADAS:
+[1772856519.8089809418]   1. 2026-03-13
+[1772856519.8095161915] ============================================================
+
+[1772856519.8100538254] Modo do captcha: REMOTE
+[1772856519.8104951382] ------------------------------------------------------------
+[1772856519.8110246658] ============================================================
+[1772856519.8114891052] CICLO 1 - Processando data: 2026-03-13
+[1772856519.8119950294] Datas restantes: 1
+[1772856519.8125281334] ============================================================
+
+[1772856520.3506209850] ============================================================
+[1772856520.3518416882] MODO TESTE ATIVADO. CLIQUE REAL SUPRIMIDO. NENHUMA INSCRIÇÃO REAL SERÁ REALIZADA.
+[1772856520.3527648449] ============================================================
+[1772856520.3537914753] 🌐 Usando navegador configurado: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[1772856521.4394814968] Abrindo página: https://www.proeis.rj.gov.br/Default.aspx
+
+[1772856524.0535931587] [Ciclo 1] Estado detectado: TELA_0_LOGIN_TYPE
+[1772856524.6364583969] [Ciclo 2] Estado detectado: TELA_1_LOGIN
+[1772856524.6371815205] Tentativa 1/1000
+[1772856524.6851840019] Resolvendo captcha login...
+[1772856524.8347895145] Captcha lido: None
+[1772856524.8356416225] Programa não conseguiu resolver o captcha. Solicitando nova imagem.
+
