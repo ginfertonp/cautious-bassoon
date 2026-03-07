@@ -183,3 +183,134 @@ LOG DE EXECUÇÃO  : 2026-03-07 01:26:45
 
 ❌ Sem vagas (1):
   • 13/03/2026
+[1772857645.2258729935] ══════════════════════════════════════════════════
+[1772857645.2265560627] INICIANDO EXECUÇÃO DO ROBÔ
+[1772857645.2272200584] ══════════════════════════════════════════════════
+[1772857645.2483193874] 📂 Carregando config de: C:\Users\Guilherme\Desktop\autobot\data\b79606fb3afea5bd
+[1772857645.2490839958] 🔓 Arquivo descriptografado com sucesso
+[1772857645.2496104240] ✅ Config carregado com sucesso!
+[1772857645.2507994175] 📂 Carregando prioridades de: C:\Users\Guilherme\Desktop\autobot\data\c5d987870fbd2df3
+[1772857645.2519214153] 🔓 Arquivo descriptografado com sucesso
+[1772857645.2526214123] ✅ Prioridades carregadas com sucesso!
+[1772857645.2532052994] ============================================================
+[1772857645.2537071705] DATAS CONFIGURADAS:
+[1772857645.2541592121]   1. 2026-03-13
+[1772857645.2546422482] ============================================================
+
+[1772857645.2554709911] Modo do captcha: REMOTE
+[1772857645.2560565472] ------------------------------------------------------------
+[1772857645.2566542625] ============================================================
+[1772857645.2572379112] CICLO 1 - Processando data: 2026-03-13
+[1772857645.2577903271] Datas restantes: 1
+[1772857645.2582309246] ============================================================
+
+[1772857645.8048768044] ============================================================
+[1772857645.8055846691] MODO TESTE ATIVADO. CLIQUE REAL SUPRIMIDO. NENHUMA INSCRIÇÃO REAL SERÁ REALIZADA.
+[1772857645.8060939312] ============================================================
+[1772857645.8065700531] 🌐 Usando navegador configurado: C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+[1772857646.5811791420] Abrindo página: https://www.proeis.rj.gov.br/Default.aspx
+
+[1772857649.4169106483] [Ciclo 1] Estado detectado: TELA_0_LOGIN_TYPE
+[1772857649.9992609024] [Ciclo 2] Estado detectado: TELA_1_LOGIN
+[1772857650.0005812645] Tentativa 1/1000
+[1772857650.0358624458] Resolvendo captcha login...
+[1772857650.1859381199] Captcha lido: 4B6202
+[1772857651.6472644806] Login realizado com sucesso!
+
+[1772857651.6606492996] [Ciclo 3] Estado detectado: TELA_2_MENU
+[1772857651.6680989265] Clicando em 'Escala'...
+
+[1772857652.2696719170] [Ciclo 4] Estado detectado: TELA_3_ESCALA
+[1772857652.2704243660] ============================================================
+[1772857652.2708544731] 🔍 VERIFICANDO HORÁRIO ALVO
+[1772857652.2714810371] ============================================================
+[1772857652.2721142769] ⚠️ Campo 'horario_alvo_str' vazio no config
+[1772857652.2725718021] ============================================================
+
+[1772857652.2731597424] ============================================================
+[1772857652.2737321854] ➡️ Nenhum horário alvo configurado - executando IMEDIATAMENTE
+[1772857652.2742240429] ============================================================
+
+[1772857652.2746212482] 🖱️ Clicando em 'Nova Inscrição'...
+
+[1772857653.3403708935] [Ciclo 5] Estado detectado: TELA_4_FILTROS
+[1772857653.3415367603] Total de datas pendentes: 1
+
+[1772857653.3420488834] ⏳ Verificando datas disponíveis...
+[1772857653.3425369263]    Datas aguardadas: ['2026-03-13']
+
+[1772857653.3529188633]   [1] Datas disponíveis: ['2026-03-07', '2026-03-08', '2026-03-09', '2026-03-10', '2026-03-11', '2026-03-12', '2026-03-13', '2026-03-14', '2026-03-15']
+[1772857653.3540544510] ✓ Data pendente encontrada: 2026-03-13 (após 0.0s)
+[1772857653.3547332287] 📅  Data escolhida: 2026-03-13
+
+[1772857653.3554551601] ........ INSCRIÇÃO 1 ........
+[1772857653.3560385704] ======== TENTATIVA 1/1000 ========
+[1772857653.3565819263] Selecionando convênio...
+[1772857653.3571159840] Convênio: 29 BPM - RAS
+[1772857653.3691008091] Selecionando data do evento...
+[1772857653.4063396454] Desmarcando 'Aceitar reserva'
+[1772857653.4513866901] Pedindo novo captcha dentro da função específica.
+[1772857653.5042955875]   ⏳ Carregamento iniciado...
+[1772857654.3356060982]   ✓ Carregamento concluído
+[1772857654.3363871574] Capturando imagem base64...
+[1772857654.3428735733] Resolvendo captcha...
+[1772857654.4718744755] ❌ Erro ao resolver captcha
+[1772857654.4725260735] ........ INSCRIÇÃO 1 ........
+[1772857654.4733324051] ======== TENTATIVA 2/1000 ========
+[1772857654.4742362499] Selecionando convênio...
+[1772857654.4749329090] Convênio: 29 BPM - RAS
+[1772857654.4875354767] Selecionando data do evento...
+[1772857654.5046045780] Desmarcando 'Aceitar reserva'
+[1772857654.5185897350] Pedindo novo captcha dentro da função específica.
+[1772857654.5380342007]   ⏳ Carregamento iniciado...
+[1772857655.3773999214]   ✓ Carregamento concluído
+[1772857655.3780467510] Capturando imagem base64...
+[1772857655.3844916821] Resolvendo captcha...
+[1772857655.5209681988] ❌ Erro ao resolver captcha
+[1772857655.5214834213] ........ INSCRIÇÃO 1 ........
+[1772857655.5222275257] ======== TENTATIVA 3/1000 ========
+[1772857655.5231981277] Selecionando convênio...
+[1772857655.5239324570] Convênio: 29 BPM - RAS
+[1772857655.5377714634] Selecionando data do evento...
+[1772857655.5578787327] Desmarcando 'Aceitar reserva'
+[1772857655.5757181644] Pedindo novo captcha dentro da função específica.
+[1772857655.5959374905]   ⏳ Carregamento iniciado...
+[1772857656.4346497059]   ✓ Carregamento concluído
+[1772857656.4352924824] Capturando imagem base64...
+[1772857656.4412043095] Resolvendo captcha...
+[1772857656.6214308739] Captcha lido: 2C850C
+[1772857656.6360538006] Clicando em 'Filtrar'...
+[1772857657.1587519646] ✓ Captcha resolvido com sucesso!
+[1772857657.1599094868] Verificando disponibilidade de eventos...
+[1772857657.1880822182] ✓ Eventos encontrados para 2026-03-13
+[1772857657.1892082691] Extraindo eventos da tabela...
+[1772857657.1946337223] ⚠️ Tabela não encontrada
+[1772857657.1952407360] ❌ Nenhum evento disponível (ou sem vagas) nesta data - _PROCESSAR_TABELA_VAZIA
+[1772857657.1961421967] X Data 2026-03-13 removida das pendentes
+
+[1772857657.1967811584] ❌ Não há mais datas pendentes. Finalizando...
+[1772857657.5654916763] ✓ Não há mais datas pendentes para inscrições.
+[1772857657.5660662651]    Datas pendentes: []
+[1772857657.5668852329]    Datas tentadas: ['2026-03-13']
+[1772857657.5674967766] ✅ Execução finalizada com sucesso
+[1772857657.8577649593] ✅ Todas as datas foram processadas!
+
+[1772857657.8584740162] ============================================================
+[1772857657.8589131832] RESUMO DA EXECUÇÃO
+[1772857657.8593571186] ============================================================
+[1772857657.8601477146] Tentativas realizadas: 1
+[1772857657.8608829975] Datas processadas (1): ['2026-03-13']
+[1772857657.8614549637] Datas não processadas (0): []
+
+[1772857657.8622229099] Inscrições confirmadas (0): []
+[1772857657.8628633022] Inscrições NÃO confirmadas (1): ['2026-03-13']
+[1772857657.8633790016] Datas já inscritas anteriormente (0): []
+
+[1772857657.8639407158] Tentativas de realizar login: 1
+[1772857657.8644127846] Tentativas de resolver captcha na tela 'filtros': 3
+[1772857657.8648529053] ============================================================
+[1772857657.8700554371] [GUI] Processo de envio do log iniciado.
+[1772857659.7146396637] Sucesso: A execução do robô foi finalizada.
+
+❌ Sem vagas (1):
+  • 13/03/2026
